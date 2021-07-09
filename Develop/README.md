@@ -24,5 +24,3 @@ This application allows for users to add notes and save them. The notes then app
 
 ![Screen Shot 2021-07-08 at 7 11 24 PM](https://user-images.githubusercontent.com/45837879/125013397-9cd96400-e020-11eb-9c3e-4ee3a2981a3d.png)
 
-
-## Link
