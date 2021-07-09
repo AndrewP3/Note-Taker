@@ -1,9 +1,6 @@
 const router = require("express").Router();
 const path = require("path");
-const {
-  createNewNote,
-  deleteNote,
-} = require("../../../../note-taker-main/lib/noteFunctions");
+const { createNewNote, deleteNote } = require("../public/notes.html");
 
 router.get("/notes", function (req, res) {
   res.sendFile(path.join(__dirname, "../public/notes.html"));
